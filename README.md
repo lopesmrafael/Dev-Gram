@@ -196,6 +196,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autor
 
 **Rafael Lopes** - [GitHub](https://github.com/lopesmrafael)
+
 **Luiz Otavio** - [GitHub](https://github.com/LuisOGCosta)
 
 
