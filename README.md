@@ -268,40 +268,6 @@ dev_gram/
 5. **Push** para a branch: `git push origin feature/MinhaFeature`
 6. **Abra um Pull Request**
 
-### Padrões de Código
-- Use **camelCase** para variáveis e métodos
-- Use **PascalCase** para classes
-- Adicione **comentários** em código complexo
-- Siga as **convenções do Dart/Flutter**
-- Teste suas mudanças antes do PR
-
-### Tipos de Contribuição
-- 🐛 **Bug fixes** - Correção de bugs
-- ✨ **Features** - Novas funcionalidades
-- 📚 **Documentação** - Melhorias na documentação
-- 🎨 **Design** - Melhorias de UI/UX
-- ⚡ **Performance** - Otimizações de performance
-
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-```
-MIT License
-
-Copyright (c) 2024 Rafael Lopes
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
 ## 👨💻 Autor
 
 **Rafael Lopes**
