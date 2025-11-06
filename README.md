@@ -43,7 +43,7 @@ Uma galeria de fotos moderna desenvolvida em Flutter com Firebase, inspirada no 
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/dev_gram.git
+git clone https://github.com/seu-usuario/Dev-Gram.git
 cd dev_gram
 ```
 
@@ -195,14 +195,14 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Rafael** - [GitHub](https://github.com/seu-usuario)
+**Rafael Lopes** - [GitHub](https://github.com/lopesmrafael)
+**Luiz Otavio** - [GitHub](https://github.com/LuisOGCosta)
 
-## 🙏 Agradecimentos
 
-- Flutter Team pelo framework incrível
-- Firebase pela infraestrutura robusta
-- Comunidade Flutter pelas bibliotecas e suporte
 
----
 
-⭐ Se este projeto te ajudou, considere dar uma estrela no repositório!
+
+
+
+
+
