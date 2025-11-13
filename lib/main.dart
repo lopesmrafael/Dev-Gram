@@ -2,8 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'firebase_options.dart';
-import 'auth_screen.dart'; // crie esse arquivo com a tela de login/cadastro
-import 'task_list_screen.dart'; // sua tela de tarefas atual
+import 'screens/auth_screen.dart';
+import 'screens/gallery_screen.dart';
+import 'utils/app_theme.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -21,7 +22,7 @@ class MainApp extends StatelessWidget {
     return MaterialApp(
       title: 'DevGram',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(primarySwatch: Colors.blue),
+      theme: AppTheme.darkTheme,
       home: StreamBuilder<User?>(
         stream: FirebaseAuth.instance.authStateChanges(),
         builder: (context, snapshot) {
@@ -32,7 +33,7 @@ class MainApp extends StatelessWidget {
           }
 
           if (snapshot.hasData) {
-            return const TaskListScreen();
+            return const GalleryScreen();
           }
 
           return const AuthScreen();
