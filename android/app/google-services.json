@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214602559549",
+    "project_id": "devgram-c4e6b",
+    "storage_bucket": "devgram-c4e6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214602559549:android:817a1e25a02b6645613a54",
+        "android_client_info": {
+          "package_name": "com.example.dev_gram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB22H6a6oi1peDdfjAO45zWc640hI12x_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
