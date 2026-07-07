@@ -1,0 +1,17 @@
+# Ignora ferramentas de desenvolvimento e caches locais
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Ignora builds de outras plataformas para não pesar o seu GitHub
+build/app/
+build/ios/
+build/linux/
+build/macos/
+build/windows/
+
+# ATENÇÃO: IMPORTANTE PARA A VERCEL FUNCIONAR
+# O comando abaixo diz para o Git NÃO ignorar a pasta build/web
+!build/web/
